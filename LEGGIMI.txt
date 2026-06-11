@@ -1,0 +1,13 @@
+﻿Gestione Turni
+==============
+
+Per avviare l'applicazione:
+  Fare doppio clic su GestioneTurni.exe
+
+Al primo avvio attendere 20-30 secondi.
+Il browser si aprira' automaticamente.
+
+Non e' necessario installare Java separatamente.
+
+I dati vengono salvati nella cartella "dati".
+NON cancellare quella cartella.
