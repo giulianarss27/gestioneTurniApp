@@ -2,12 +2,13 @@
 ==============
 
 Per avviare l'applicazione:
-  Fare doppio clic su GestioneTurni.exe
+  Fare doppio clic su "Avvia GestioneTurni.bat"
 
 Al primo avvio attendere 20-30 secondi.
-Il browser si aprira' automaticamente.
+Il browser si aprira' automaticamente su http://localhost:8080
+
+Per chiudere: premere CTRL+C nella finestra nera, oppure chiuderla.
 
 Non e' necessario installare Java separatamente.
-
-I dati vengono salvati nella cartella "dati".
+I dati vengono salvati nella cartella "turni-db".
 NON cancellare quella cartella.
