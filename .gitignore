@@ -1,0 +1,4 @@
+# Database runtime (dati utente, generati all'avvio)
+turni-db/
+dati/
+*.log
